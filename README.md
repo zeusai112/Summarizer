@@ -2,14 +2,6 @@
 
 ![Modern OpenAI GPT-4 Article Summarizer](/.github/images/img_main.png "Modern OpenAI GPT-4 Article Summarizer")
 
-[![Ask Me Anything!](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/sanidhyy "Ask Me Anything!")
-[![GitHub license](https://img.shields.io/github/license/sanidhyy/ai-summarizer)](https://github.com/sanidhyy/ai-summarizer/blob/main/LICENSE.md "GitHub license")
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/sanidhyy/ai-summarizer/commits/main "Maintenance")
-[![GitHub branches](https://badgen.net/github/branches/sanidhyy/ai-summarizer)](https://github.com/sanidhyy/ai-summarizer/branches "GitHub branches")
-[![Github commits](https://badgen.net/github/commits/sanidhyy/ai-summarizer/main)](https://github.com/sanidhyy/ai-summarizer/commits "Github commits")
-[![Netlify Status](https://api.netlify.com/api/v1/badges/4b406197-21d8-4e96-9fdd-52c782540f0e/deploy-status)](https://summise.netlify.app/ "Netlify Status")
-[![GitHub issues](https://img.shields.io/github/issues/sanidhyy/ai-summarizer)](https://github.com/sanidhyy/ai-summarizer/issues "GitHub issues")
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/sanidhyy/ai-summarizer)](https://github.com/sanidhyy/ai-summarizer/pulls "GitHub pull requests")
 
 ## ⚠️ Before you start
 
@@ -55,15 +47,6 @@ VITE_RAPIDAPI_ARTICLE_KEY=XXXXXXXXXXXXXXXXXXXXXXX
 ## :raised_hands: Contribute
 
 You might encounter some bugs while using this app. You are more than welcome to contribute. Just submit changes via pull request and I will review them before merging. Make sure you follow community guidelines.
-
-## Buy Me a Coffee 🍺
-
-[<img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" width="200" />](https://www.buymeacoffee.com/sanidhy "Buy me a Coffee")
-
-## :rocket: Follow Me
-
-[![GitHub followers](https://img.shields.io/github/followers/sanidhyy?style=social&label=Follow&maxAge=2592000)](https://github.com/sanidhyy "Follow Me")
-[![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fx.com%2F_sanidhyy)](https://x.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fsanidhyy%2Fmedical-chat-app "Tweet")
 
 ## :star: Give A Star
 

@@ -1,7 +1,4 @@
 ## Contributing
-
-[fork]: https://github.com/sanidhyy/ai-summarizer/fork
-[pr]: https://github.com/sanidhyy/ai-summarizer/compare
 [style]: https://standardjs.com/
 [code-of-conduct]: CODE_OF_CONDUCT.md
 
